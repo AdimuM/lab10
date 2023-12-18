@@ -13,8 +13,8 @@
 
 ## The main features of the Screen3:
 - Implementing the AnimatedTextKit to create dynamic and animated text with various effects:
- - Rotating text with 'AWESOME'.
- - Scaling text with 'COOL'.
- - Wavy animated text with 'Amazing'.
+  - Rotating text with 'AWESOME'.
+  - Scaling text with 'COOL'.
+  - Wavy animated text with 'Amazing'.
 - Incorporating a custom button (CustomButton from custom_widgets.dart) with the text "Go to screen1" and a green color.
 - Navigating to "Screen1" ('/screen1') when the button is pressed.
